@@ -6,7 +6,7 @@ on:
 
 defaults:
   run:
-    working-directory: presentation
+    working-directory: deck
 
 jobs:
   build:

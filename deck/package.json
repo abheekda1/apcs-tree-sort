@@ -10,5 +10,9 @@
     "code-surfer": "3.1.0",
     "mdx-deck": "3.0.13"
   },
-  "name": "presentation"
+  "name": "presentation",
+  "dependencies": {
+    "gatsby": "^2.17.15",
+    "gatsby-theme-mdx-deck": "^4.1.0"
+  }
 }
